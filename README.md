@@ -1,8 +1,7 @@
 # TreeMap-Implementation
+**BalancedMap**: Implementing a Map ADT using composition with java.util.TreeMap
 
-BalancedMap: Implementing a Map ADT using composition with java.util.TreeMap
-
-UnbalancedMap: Implementing a Map ADT directly from scratch. The Map ADT is implemented with an unbalanced binary search tree, following its convention of placing small items in the left-subtree and larger items in the right-subtree. A private, inner-inner class is created to represent the map's node objects.
+**UnbalancedMap**: Implementing a Map ADT directly from scratch. The Map ADT is implemented with an unbalanced binary search tree, following its convention of placing small items in the left-subtree and larger items in the right-subtree. A private, inner-inner class is created to represent the map's node objects.
 
 The Map ADT is able to perform the following functionalities:
 - Indicates if the map contains an object
